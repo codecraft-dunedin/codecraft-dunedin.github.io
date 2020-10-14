@@ -12,4 +12,6 @@ We're really welcome to any ideas from the community, please don't be afraid of 
 
 If you want to contribute but you're not quite sure how, let us know and we'll be more than happy to lend a mentoring hand.
 
+To keep up to date with everything that is happening, please join our Google Group/Mailing List: https://groups.google.com/g/codecraft-dunedin
+
 As always, be excellent to each other.
