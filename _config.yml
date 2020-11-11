@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   provide a friendly regular meeting for technical folk in Dunedin, NZ. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: CodeCraft_Dn
+twitter_username: CodeDunedin
 github_username:  codecraft-dunedin
 
 # Build settings
