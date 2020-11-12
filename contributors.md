@@ -4,10 +4,11 @@ title: Contributors
 permalink: /contributors/
 ---
 
-<h2>Contributors</h2>
-<ul>
-  <li>Tim Penhey</li>
-  <li>Mike Mackenzie</li>
-</ul>
+####Thank you to everyone who has contributed to this wesbite;
 
-<p>If you think you're missing from this list, give us a shout on IRC.</p>
+- Tim Penhey [[github](https://github.com/howbazaar)]
+- Mike Mackenzie [[github](https://github.com/veb), [website](https://veb.co.nz/)]
+
+
+
+If you think you're missing from this list, give us a shout on IRC.
