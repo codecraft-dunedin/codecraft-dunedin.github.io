@@ -8,7 +8,7 @@ Thank you to everyone who has contributed to this wesbite and the ongoing talks;
 
 - Tim Penhey [[github](https://github.com/howbazaar)]
 - Mike Mackenzie [[github](https://github.com/veb), [website](https://veb.co.nz/)]
-- Ian Rees [github](https://github.com/ianrrees), [webite](https://ianrrees.github.io/)
+- Ian Rees [[github](https://github.com/ianrrees), [webite](https://ianrrees.github.io/)]
 - more here...
 
 ### How to Contribute to this site
