@@ -2,6 +2,7 @@
 layout: post
 title:  "Modern Embedded Debugging Show-and-tell"
 date:   2020-11-03 18:30:00 +1300
+author: Ian Rees
 categories: Rust debugging embedded microcontroller disorganised
 ---
 
