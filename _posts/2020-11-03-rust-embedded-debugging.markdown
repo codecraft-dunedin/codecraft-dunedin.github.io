@@ -2,8 +2,8 @@
 layout: post
 title:  "Modern Embedded Debugging Show-and-tell"
 date:   2020-11-03 18:30:00 +1300
-author: Ian Rees
 categories: Rust debugging embedded microcontroller disorganised
+author: Ian Rees
 ---
 
 Tools and techniques for debugging embedded systems are like anything else: a compromise between competing goals.  Historically, they have been some combination of proprietary (usually expensive) and hacky, and generally lag behind those for regular computers.  Debuggers are usually relatively slow, which can mean they aren't usable for debugging in the real-time environments that embedded systems are often used in; rather than a `debug_printf("got here\n");`, it might only be practical to insert a `turn_on_led();` in a suspect piece of code.  If a debug setup isn't slow and/or expensive, it has usually been costly in system resources such as program space or hardware in the target.
