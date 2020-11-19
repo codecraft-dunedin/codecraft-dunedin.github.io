@@ -29,6 +29,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# collections_dir: _collections
+collections:
+  talks:
+    output: true
+defaults: post
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
