@@ -12,9 +12,9 @@ We had a great first meeting on the 2nd of February and for me personally it was
 
 So a big thanks to Kit, Ina and Nick for speaking.
 
-Kit spoke about his experience trying to update a large Angular JS web application to React whilst not impacting service 'too much' using Single SPA ([https://single-spa.js.org/](https://single-spa.js.org/)). Maybe not for every project buy the discussion showed a few of the group using this technology for various purposes.
+Kit spoke about his experience trying to update a large Angular JS web application to React whilst not impacting service 'too much' using Single SPA ([https://single-spa.js.org/](https://single-spa.js.org/)). Maybe not for every project but the discussion showed a few of the group using this technology for various purposes.
 
-Ina talked about her experience as a non-technical person creating the NZ Secret Santa App. Built using Knack ([https://www.knack.com/](https://www.knack.com/) - online database) and Integromat ([https://www.integromat.com/](https://www.integromat.com/) - workflow processing) it was cool to here how the project was executed. Adults still like achievement badges evidently.
+Ina talked about her experience as a non-technical person creating the NZ Secret Santa App. Built using Knack ([https://www.knack.com/](https://www.knack.com/) - online database) and Integromat ([https://www.integromat.com/](https://www.integromat.com/) - workflow processing) it was cool to hear how the project was executed. Adults still like achievement badges evidently.
 
 Nick spoke about running Taint Analysis on a PHP project using Psalm ([https://psalm.dev/](https://psalm.dev/)). As usual when Nick is describing security holes I was listening whilst thinking over my latest code. Really interesting though as having these types of checks within our IDEs might come in time.
 
@@ -22,4 +22,4 @@ I would finally like to ask everyone to once again start RSVP'ing to meetings if
 
 **~Chris**
 
-We'll also be doing our best to try and get these talks on this website. We will be experimenting with different ideas and such, so please bare with us while we develop CodeCraft Dundin website into something that's educational for everyone. ~**Mike**
+We'll also be doing our best to try and get these talks on this website. We will be experimenting with different ideas and such, so please bare with us while we develop CodeCraft Dunedin website into something that's educational for everyone. ~**Mike**
