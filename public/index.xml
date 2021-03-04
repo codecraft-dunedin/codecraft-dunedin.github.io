@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CodeCraft Dunedin</title>
+    <link>https://codecraft.org.nz/</link>
+    <description>Recent content on CodeCraft Dunedin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +1300</lastBuildDate><atom:link href="https://codecraft.org.nz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About CodeCraft Dunedin</title>
+      <link>https://codecraft.org.nz/_/about/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +1300</pubDate>
+      
+      <guid>https://codecraft.org.nz/_/about/</guid>
+      <description>About Code Craft is a group that has been running for over ten years to provide a friendly regular meeting for technical folk in Dunedin, New Zealand.
+We’re a real friendly bunch, and will do everything we can to help you fit in. The tech industry is growing hard around Dunedin, and Code Craft is simply one of those places where we can socialise outside of eotk, and feel happy talking to like minded people.</description>
+    </item>
+    
+    <item>
+      <title>About CodeCraft Dunedin</title>
+      <link>https://codecraft.org.nz/pages/about/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +1300</pubDate>
+      
+      <guid>https://codecraft.org.nz/pages/about/</guid>
+      <description>About Code Craft is a group that has been running for over ten years to provide a friendly regular meeting for technical folk in Dunedin, New Zealand.
+We’re a real friendly bunch, and will do everything we can to help you fit in. The tech industry is growing hard around Dunedin, and Code Craft is simply one of those places where we can socialise outside of eotk, and feel happy talking to like minded people.</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>https://codecraft.org.nz/_/contributors/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +1300</pubDate>
+      
+      <guid>https://codecraft.org.nz/_/contributors/</guid>
+      <description>Thank you to everyone who has contributed to this wesbite and the ongoing talks;
+ Tim Penhey [github] Mike Mackenzie [github, website] Ian Rees [github, webite] Chris Mein Shane Mulligan [github, webite] more here&amp;hellip;  How to Contribute to this site  Pull from Github (using SSH), git@github.com:codecraft-dunedin/codecraft-dunedin.github.io.git - you may use other options like Github Desktop etc. Once you have the Code Craft website on your local computer protected by git, you can make a new branch for your changes: git checkout -b [name_of_your_new_branch] you can read some more about that at Atlassian.</description>
+    </item>
+    
+    <item>
+      <title>Next up on CodeCraft…</title>
+      <link>https://codecraft.org.nz/posts/2021-02-17-next-up/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +1300</pubDate>
+      
+      <guid>https://codecraft.org.nz/posts/2021-02-17-next-up/</guid>
+      <description>Hi everyone
+We had a great first meeting on the 2nd of February and for me personally it was great to get back to a meeting in person!
+So a big thanks to Kit, Ina and Nick for speaking.
+Kit spoke about his experience trying to update a large Angular JS web application to React whilst not impacting service &amp;lsquo;too much&amp;rsquo; using Single SPA (https://single-spa.js.org/). Maybe not for every project but the discussion showed a few of the group using this technology for various purposes.</description>
+    </item>
+    
+    <item>
+      <title>Modern Embedded Debugging Show-and-tell</title>
+      <link>https://codecraft.org.nz/posts/2020-11-03-rust-embedded-debugging/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://codecraft.org.nz/posts/2020-11-03-rust-embedded-debugging/</guid>
+      <description>Tools and techniques for debugging embedded systems are like anything else: a compromise between competing goals. Historically, they have been some combination of proprietary (usually expensive) and hacky, and generally lag behind those for regular computers. Debuggers are usually relatively slow, which can mean they aren&amp;rsquo;t usable for debugging in the real-time environments that embedded systems are often used in; rather than a debug_printf(&amp;quot;got here\n&amp;quot;);, it might only be practical to insert a turn_on_led(); in a suspect piece of code.</description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://codecraft.org.nz/posts/welcome/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://codecraft.org.nz/posts/welcome/</guid>
+      <description>Hey there,
+This is our first blog post, but we’re sure more posts and/or articles will come more often as we are only just getting started with a better web presence.
+We hope to be able to either post videos of the talks online (with captions), any slideshow presentstion or simple tutorials for people to follow and learn.
+Lastly, you will be able to see when the next Code Craft talk is, if you would like to come and listen.</description>
+    </item>
+    
+  </channel>
+</rss>
