@@ -1,0 +1,52 @@
+baseURL = "https://codecraft.org.nz/"
+languageCode = "en-us"
+title = "CodeCraft Dunedin"
+enableGitInfo = true
+enableRobotsTXT = true
+paginate = 5
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+theme = "hugo-theme-yinyang"
+DefaultContentLanguage = "en"
+
+[author]
+name = "CodeCraft"
+homepage = "https://codecraft.org.nz/"
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+
+[params]
+# disqus = "joway" # disqus account name
+twitter = "CodeDunedin"
+github = "codecraft-dunedin"
+extraHead = ''
+mainSections = ["posts", "_"]
+
+[[params.mainpages]]
+name = "About"
+link = "/_/about/"
+
+[[params.mainpages]]
+name = "Contributors"
+link = "/_/contributors/"
+
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
+
+[[params.socials]]
+name = "GitHub"
+link = "https://github.com/codecraft-dunedin/"
+
+[[params.socials]]
+name = "Twitter"
+link = "https://twitter.com/CodeDunedin"
+
+[[params.socials]]
+name = "info@codecraft.org.nz"
+link = "mailto:info@codecraft.org.nz"

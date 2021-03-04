@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CodeCraft Dunedin</title>
+    <link>https://codecraft.org.nz/_/</link>
+    <description>Recent content on CodeCraft Dunedin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +1300</lastBuildDate><atom:link href="https://codecraft.org.nz/_/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About CodeCraft Dunedin</title>
+      <link>https://codecraft.org.nz/_/about/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +1300</pubDate>
+      
+      <guid>https://codecraft.org.nz/_/about/</guid>
+      <description>About Code Craft is a group that has been running for over ten years to provide a friendly regular meeting for technical folk in Dunedin, New Zealand.
+We’re a real friendly bunch, and will do everything we can to help you fit in. The tech industry is growing hard around Dunedin, and Code Craft is simply one of those places where we can socialise outside of eotk, and feel happy talking to like minded people.</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>https://codecraft.org.nz/_/contributors/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +1300</pubDate>
+      
+      <guid>https://codecraft.org.nz/_/contributors/</guid>
+      <description>Thank you to everyone who has contributed to this wesbite and the ongoing talks;
+ Tim Penhey [github] Mike Mackenzie [github, website] Ian Rees [github, webite] Chris Mein Shane Mulligan [github, webite] more here&amp;hellip;  How to Contribute to this site  Pull from Github (using SSH), git@github.com:codecraft-dunedin/codecraft-dunedin.github.io.git - you may use other options like Github Desktop etc. Once you have the Code Craft website on your local computer protected by git, you can make a new branch for your changes: git checkout -b [name_of_your_new_branch] you can read some more about that at Atlassian.</description>
+    </item>
+    
+  </channel>
+</rss>
