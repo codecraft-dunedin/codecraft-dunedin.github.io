@@ -6,14 +6,15 @@ permalink: /contributors/
 
 Thank you to everyone who has contributed to this wesbite and the ongoing talks;
 
-- Tim Penhey [[github](https://github.com/howbazaar)]
-- Mike Mackenzie [[github](https://github.com/veb), [website](https://veb.co.nz/)]
+- Tim Penhey [[github](https://github.com/howbazaar), [Mastodon](https://hachyderm.io/@thumper)]
+- Mike Mackenzie [[github](https://github.com/veb), [website](https://veb.co.nz/), [Mastodon](https://mastodon.social/@veb)]
 - Ian Rees [[github](https://github.com/ianrrees), [webite](https://ianrrees.github.io/)]
 - Chris Mein
 - more here...
 
 ### How to Contribute to this site
 
+- Firstly visit our GitHub repository so you can see the current issues: https://github.com/codecraft-dunedin 🙃
 - Pull from Github (using SSH), `git@github.com:codecraft-dunedin/codecraft-dunedin.github.io.git` - you may use other options like [Github Desktop](https://desktop.github.com/) etc.
 - Once you have the Code Craft website on your local computer protected by git, you can make a new branch for your changes: `git checkout -b [name_of_your_new_branch]` you can read some more about that at [Atlassian](https://www.atlassian.com/git/tutorials/using-branches/git-checkout).
 - Don't be afraid to hack your branch as much as you want to, it's your branch after all.
