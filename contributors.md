@@ -24,4 +24,4 @@ Thank you to everyone who has contributed to this wesbite and the ongoing talks;
 - You will need to create a PR (pull request) for your pushed branch which [you can find information about on Github itself](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 - We will review it as soon as we can and either confirm it immediately or have some sort of discussion around it first.
 
-If you think the guide here needs anything else, please let us know on [DevelopNZ Slack](https://dev.elop.nz/) (#dunedin channel). Thanks
+If you think the guide here needs anything else, please let us know on [DevelopNZ Slack](https://dev.elop.nz/) (#dunedin channel). Hope to see you around!
