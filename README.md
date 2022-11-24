@@ -2,16 +2,12 @@
 
 This is the beginning of our README. There's not much here right now, but things are coming soon. If you'd like to help, go for it.
 
-You can find us in real-time on IRC - Freenode in #dunedintech.
+A few of us chat in the #dunedin channel on the DevelopNZ Slack - you're welcome to join via https://dev.elop.nz/
 
-If you're a Slack person, you can join DevelopNZ (https://developnz.herokuapp.com) and message me (veb) if you have any questions. 
+We're really welcome to any ideas from the community, please don't be afraid of contributing or creating issues. If you don't think it's enough for an issue, then let us know via email or on Slack.
 
-We've also created a Discord server for Code Craft Dunedin. You can join here: https://discord.gg/BCvFYsQ
+If you want to contribute but you're not quite sure how, let us know and we'll be more than happy to lend a mentoring hand. We do have the [Contributing](https://codecraft.org.nz/contributors/) guide - so you can always pull down the website and give it a try.
 
-We're really welcome to any ideas from the community, please don't be afraid of contributing or creating issues. If you don't think it's enough for an issue, then either join IRC, Slack or Discord and chat with some of us.
-
-If you want to contribute but you're not quite sure how, let us know and we'll be more than happy to lend a mentoring hand.
-
-To keep up to date with everything that is happening, please join our Google Group/Mailing List: https://groups.google.com/g/codecraft-dunedin
+To keep up to date with everything that is happening, please join our Google Group/Mailing List: https://groups.google.com/g/codecraft-dunedin or you can join our Meetup Group: https://www.meetup.com/Code-Craft-Dunedin/
 
 As always, be excellent to each other.
